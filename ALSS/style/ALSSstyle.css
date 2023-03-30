@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.logInheader {
+    background-color: rgba(141, 169, 196, 1) ;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.logo {
+    float: left;
+}
+
+.authBody  {
+    background: rgba(141, 169, 196, 1) ;
+    font-family: 'mohave';
+}
+.authBody main {
+    text-align: center;
+    color: white;
+}
+
+.auth {
+    background:rgba(58, 80, 107, 1) ;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 100px;
+
+}
+
+.header {
+    background-color: rgba(141, 169, 196, 1) ;
+
+}
+
+.nav {
+    clear: both;
+    width: 100%;
+    text-align: center;
+}
+
+.nav ul {
+    list-style-type: none;
+
+}
+
+.nav li {
+    display: inline;
+    float: left;
+    width: 33%;
+    background-color: rgba(217, 217, 217, 1); ;
+}
+
+

@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: rgba(58, 80, 107, 1);
+    font-family: 'mohave' ;
+}
+.header{
+    display: block;
+    width: 100%;
+    background: rgba(141, 169, 196, 1);
+
+}
+
+
+
+.logo{
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    background: rgba(217, 217, 217, 1);
+    width: 25%;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+ul :hover {
+    background-color: rgba(170, 169, 169, 1);
+}
+
+.navbar {
+    clear: both;
+    width: 100%;
+    text-align: center;
+}
+
+main {
+    padding-top: 60px;
+    padding-left: 120px;
+    color: white;
+
+}
+.pDetails {
+    margin-bottom: 10px;
+}
+
+.title {
+    display: block;
+    margin-bottom: 10px;
+}
+input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.pSubmit {
+    margin-left: 127px;
+}
+
+.bSubmit {
+    margin-top: 10px;
+    margin-left: 205px;
+}
+
+.enquire {
+    margin-top: 20px;
+}
+
+.wine {
+    float: right;
+    margin-left: 10px;
+    margin-right: 120px;
+    width: 610px;
+    height: 351px;
+}
+
+.map {
+    float: left;
+    margin-right: 20px;
+}
+
+.airport {
+    margin-right: auto;
+}
+
+.lounge {
+    margin-right: auto;
+}
